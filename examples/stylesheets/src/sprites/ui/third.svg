@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 101.81 101.8">
+  <defs>
+    <style>
+      .a {
+        fill: #ffc107;
+      }
+      .b {
+        fill: #4caf50;
+      }
+      .c {
+        fill: #d8562a;
+      }
+      .d {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path class="a" d="M50.9 50.9l41.18-29.92a50.9 50.9 0 0 1-11.26 71.1z"/><path class="b" d="M50.9 50.9l29.92 41.18A50.902 50.902 0 0 1 20.98 9.72 48.77 48.77 0 0 1 50.9 0v50.9z"/><path class="c" d="M50.9 50.9V0a49.36 49.36 0 0 1 41.18 21z"/><circle class="d" cx="50.9" cy="50.9" r="35.76"/></svg>
